@@ -1,100 +1,60 @@
-@title[Introduction]
+<!-- .slide: data-background-color="black" data-background-transition="slide" data-transition-speed="slow" -->
 
-# Git<span class="gold">Pitch</span>
-
-#### Markdown Presentations For Everyone on Git.*
-<br>
-<br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+# Search strings
 
 ---
 
-@title[PITCHME.md]
-
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
-<br>
-<span class="aside">Just like this one...</span>
+![search string](https://i.imgur.com/Cpr8rrr.png)
 
 ---
 
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
-<br>
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
+![6 useful tricks for google search](https://i.imgur.com/ILChJv2.png)
 
 ---
 
-@title[Step 1. PITCHME.md]
-
-### <span class="gold">STEP 1. Create 'PITCHME.md'</span>
-<br>
-#### Create GitPitch slideshow content using GitHub Flavored Markdown in your favorite editor.
-<br>
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
+<!-- .slide: data-background-color="black" data-background-transition="slide" data-transition-speed="slow" -->
+Individually, spend 5 minutes playing around with creating search strings that use these tricks!
+<iframe data-src="https://www.youtube.com/embed/4ic6bFOEdzs?autoplay=0"></iframe>
 
 ---
 
-@title[Step 2. Git-Commit]
+### Googling exercises 
 
-### <span class="gold">STEP 2. GIT-COMMIT</span>
-<br>
-
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
-
-Done!
-```
-
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
+In small groups, come up with good search strings for the following tasks. Test them and *then* share the **search strings** on `padlet.com/jakupmichaelsen/TodaysClass` 
 
 ---
 
-@title[Step 3. Done!]
+1. Search for the phrase "cicero's pentagram" and leave out the TLD of Denmark
+2. Use wildcards to find variations of the phrase ”may the force be with you” 
+3. See if the Danish and English Wikipedia have an article about the rhetorical pentagram
+4. Find sites similar to Breitbart News Network
+5. Find Word documents from a US university about fake news 
+6. Find URLs that contain with on or more of your own username(s)
+7. Search for sites about "alternative facts", excluding the Danish Wikipedia
 
-### <span class="gold">STEP 3. GET THE WORD OUT!</span>
-<br>
-![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
-<br>
-<br>
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
+---
+<!-- .slide: data-background-color="rgb(176, 23, 31)" data-background-transition="slide" data-transition-speed="slow" -->
+![keepcalm](https://i.imgur.com/ZVty9f8.png) <!-- .element: style="height: 600px" -->
 
 ---
 
-@title[Slide Rich]
-
-### <span class="gold">Slide Rich</span>
-
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
-#### Multiple Themes with Easy Customization
-<br>
-#### <span class="gold">Plus collaboration is built-in...</span>
-#### Your Slideshow is Part of Your Project
-#### Under Git Version Control within Your Git Repo
+<!-- .slide: data-background-iframe="https://padlet.com/jakupmichaelsen/TodaysClass" data-background-interactive -->
 
 ---
 
-@title[Feature Rich]
-
-### <span class="gold">Feature Rich</span>
-
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
+# One final tip
 
 ---
+To search within a specific time frame, use the "Tools" or "Værktøjer" menu: 
 
-### Go for it.
-### Just add <span class="gold">PITCHME.md</span> ;)
-<br>
-[Click here to learn more...](https://github.com/gitpitch/gitpitch/wiki)
+![gif](https://i.imgur.com/kNbrWxy.gif)
+
+---
+Now, use that tool with some **search strings**:  
+- Find everything posted on gymnasiet.dk over the past month (hint: use trick 4)
+- Find everything *Danmarks Radio* has posted during the past hour
+
+***
+In the week after 9/11: 
+- What did Politiken.dk write about?
+- What did other media, foreign and domestic, write in the same periode?

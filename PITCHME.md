@@ -1,161 +1,79 @@
+<!-- .slide: data-background-color="rgb(57, 186, 156)" data-background-transition="slide" data-transition-speed="slow" -->
+
+![Seems legit](https://i.imgur.com/DhysUcy.jpg)
+
+---
+
 <!-- .slide: data-background-color="black" data-background-transition="slide" data-transition-speed="slow" -->
 
-# Animal Farm 
+# Clickbait
 
 ---
 
-# Random Pairs
+## Random pairs
 
----
-<!-- .slide: data-background-color="rgb(176, 23, 31)" data-background-transition="slide" data-transition-speed="slow" -->
-![keepcalm](https://i.imgur.com/ZVty9f8.png) <!-- .element: style="height: 600px" -->
-
----
-
-## Tracking characters  
-The major characters in Animal Farm are introduced in the first four chapters. 
-
-As you read, think about the purpose of each of Orwell’s characters.
-
----
-<!-- .element: style="text-align:justify; font-size: 22px; font-family: Times New Roman" -->
-
-|           Character            |            Characteristics/Actions/Purpose             |
-| ------------------------------ | ------------------------------------------------------ |
-| Old Major (pig)                | Gets the revolution started, advocates for real change |
-| Mr. Jones (human)              | The human owner of the farm                            |
-| Mrs. Jones (human              | Mr. Jones's wife                                       |
-| Bluebell, Jess, Pincher (dogs) | -                                                      |
-| Boxer and Clover (cart horses) | -                                                      |
-| Muriel (goat)                  | -                                                      |
-| Benjamin (donkey)              | -                                                      |
-| Mollie (mare)                  | -                                                      |
-| Moses (raven)                  | -                                                      |
-| Snowball and Napoleon (boars)  | -                                                      |
-| Squealer (porker)              | -                                                      |
-| Mr. Pilkington (ch. 4)         | -                                                      |
-| Mr. Frederick (ch. 4)          | -                                                      |
+What is clickbait?  
+Why does it exist?  
 
 ---
 
-### Major's Speech  
-This speech is meant to stir the animals to the point that they will actually rebel against man.  
+<!-- .slide: data-background-color="black" data-background-transition="slide" data-transition-speed="slow" -->
 
-Take turns giving a dramatic reading of Major’s speech (from ”Now, comrades...” on p. 8 to "All animals are equal" on p. 12).  
-
----
-
-What are the main points of Major's speech?  
-
-How do the animals react to it?  
-
-Picture yourself as a farm animal, what would your reactions to Major's speech be? 
+![blue_beetle quote](https://i.imgur.com/Od9LSGY.jpg)
 
 ---
 
-# Quizlet
+Brainstorm common clickbait headlines 
+
 
 ---
 
-# Groups
+>    [?] tries to [?]. The reason why will make you [?]  
+>    [?] tries to [?].  You won’t BELIEVE what happened next!  
+>    This video will prove that [?]  
+>    10 [?] you should never [?] to [?]  
+>    X was Y. First you’ll be shocked, then you’ll be inspired  
+>    10 [?] that look like [?]  
+>    10 [?] that you won’t believe [?]  
+
+---
+<!-- .slide: data-background-color="lightblue" data-background-transition="slide" data-transition-speed="slow" -->
+
+# Theory
+
+---
+<!-- .slide: data-background-color="lightblue" data-background-transition="slide" data-transition-speed="slow" -->
+### Language functions  
+
+A simple way to categorize the functions of languge is into three categories:  
+
+1. **Informative language function** <!-- .element: class="fragment" data-fragment-index="1" -->
+##### Essentially, the communication of information. <!-- .element: class="fragment" data-fragment-index="4" -->
+2. **Expressive language function** <!-- .element: class="fragment" data-fragment-index="2" -->
+##### Reports feelings or attitudes of the writer (or speaker), or of the subject, or evokes feelings in the reader (or listener) <!-- .element: class="fragment" data-fragment-index="5" -->
+3. **Directive language function** <!-- .element: class="fragment" data-fragment-index="3" -->
+##### Language used for the purpose of causing (or preventing) overt action. <!-- .element: class="fragment" data-fragment-index="6" -->
+
+### Add to your own notes! <!-- .element: class="fragment" --> 
+---
+
+## [Sally Kohn: Don't like clickbait? Don't click (2014) | TED Talk](https://www.ted.com/talks/sally_kohn_don_t_like_clickbait_don_t_click)
+
+---
+<!-- .slide: data-background-color="wheat" data-background-transition="slide" data-transition-speed="slow" -->
+
+
+### 📝 in random pairs
+
+What is a TED Talk?  
+Who is Sally Kohn?  
+What are the main points of Kohn's talk?    
+Find examples of Kohn's use of the three language functions  
+Finally, what is the Kohn's intention?  
 
 ---
 
-# 10 ➫  7 commandments
-
----
-<!-- .element: style="text-align:justify; font-size: 24px;" -->
-
-|         Old Major's commandments (ch. 1)        |                  The 7 commandments (ch. 2)                 |
-| ----------------------------------------------- | ----------------------------------------------------------- |
-| 1. No animal is ever to live in a house.        | 1. Whatever goes upon two legs is an enemy.                 |
-| 2. No animal is ever to sleep in a bed.         | 2. Whatever goes upon four legs, or has wings, is a friend. |
-| 3. No animal is ever to wear clothes.           | 3. No animal shall wear clothes.                            |
-| 4. No animal is ever to drink alcohol.          | 4. No animal shall sleep in a bed.                          |
-| 5. No animal is ever to smoke tobacco.          | 5. No animal shall drink alcohol.                           |
-| 6. No animal is ever to touch money.            | 6. No animal shall kill any other animal.                   |
-| 7. No animal is ever to engage in trade.        | 7. All animals are equal.                                   |
-| 8. No animal is ever to tyrannize his own kind. | -                                                           |
-| 9. No animal must ever kill any other animal.   | -                                                           |
-| 10. All animals are equal.                      | -                                                           |
-
-***
-
-- What is different between Major's 10 commandments and the 7 commandments of chapter two?  
-- What roles do the pigs play in this?  
-- How does the behavior of the pigs foreshadow their eventual leadership positions?
-
----
-
-<!-- .slide: data-background-color="red" data-background-transition="slide" data-transition-speed="slow" -->
-
-# Beasts of England
-
----
-
-# 📝 
-
-**Examine the song ”Beasts of England” as poetry.**  
-What imagery is present?  
-What is the message?  
-Why do the animals like it so much that they memorize it on the spot?  
-To what emotions and needs does it appeal?  
-
----
-
-# Analytical paragraphs
-
-Now you are going to write an analytical paragraph on ”Beasts of Englsh” (minimum 150 words).
-
-1. Using the previous questions as a point of departure, write a claim on how to interpret the song. 
-2. Pick one or more quotes to back up your claim. 
-3. Introduce the quote(s) by briefly explaining where in the story your quote is from
-4. Then, explain how your quote is proof of your claim.
-
----
-
-#### Share on the Today's Class Padlet
-
-#### padlet.com/jakupmichaelsen/TodaysClass
-
-Post your group's paragraph here, then read at least two other groups' work. 
-
----
-
-# Chapter V: Changes
-
----
-
-In, random pairs:
-
-- Compare and update your character table  
-- Read the summaries of chapters 1-4 on `literapedia.wikispaces.com/Animal+Farm`  
-- Discuss any questions you have for these chapters 
-- Finally, make a list of all the changes that occur in chapter 5    
-
----
-In new random pairs:  
-
----
-
-<!-- .element: style="text-align:justify; font-size: 28px; font-family: Times New Roman" -->
-
-- Compare your list of changes that occur in chapter 5  
-- Then, write a short answer to each of the following questions (also available on Lectio):  
-
-1) Why does Mollie run away from the farm?   
-2) What changes have been made in the weekly meetings over the last year?   
-3) Explain the windmill controversy from Snowball’s point of view.   
-4) Explain the windmill controversy from Napoleon’s point of view.   
-5) What changes does Napoleon make after his dogs chase Snowball off the farm?   
-6) Why don’t the other animals protest Napoleon’s decisions?   
-7) Note how the animals now arrange themselves when they enter the barn to receive their orders as compared to the description in Chapter I.   
-8) What is the importance of the dogs accompanying Squealer when he comes to talk to the animals?   
-
----
-
-Final random pairs: 
-
-Imagine how Snowball might have run things if he had gotten rid of Napoleon. Would things have been any different? Are there indications that Snowball’s ideas for running the farm would have proved more beneficial to the animals? Or would things have turned out the same? 
+## Homework  
+### Find a real example of clickbait for next time  
 
 ---

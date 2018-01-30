@@ -69,7 +69,7 @@ What is a TED Talk?
 Who is Sally Kohn?  
 What are the main points of Kohn's talk?    
 Find examples of Kohn's use of the three language functions  
-Finally, what is the Kohn's intention?  
+Finally, what is Kohn's intention?  
 
 ---
 
